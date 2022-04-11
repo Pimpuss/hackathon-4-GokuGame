@@ -2,7 +2,7 @@
 
 ## 📂 Installation :
 
-Dans installez [Unity Hub](https://unity3d.com/fr/get-unity/download).
+Dans un premier temps installez [Unity Hub](https://unity3d.com/fr/get-unity/download).
 Une fois le Hub installé localisé le projet sur votre machine en allant dans "```Open```" pour choissir le projet GokuGame afin de l'ouvrir dans le Hub pour le prévisualiser, l'éditer et le tester.
 
 ## 💬 Description : 
