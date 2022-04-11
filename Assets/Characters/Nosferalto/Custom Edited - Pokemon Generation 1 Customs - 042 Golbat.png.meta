@@ -1,0 +1,2616 @@
+fileFormatVersion: 2
+guid: 7e2bce52939e0374494a75260616c54b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6243362098895124904
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_0
+  - first:
+      213: 4353362785758037350
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_1
+  - first:
+      213: 3478361878189401216
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_2
+  - first:
+      213: -4379054949639742426
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_3
+  - first:
+      213: -4774909547034171528
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_4
+  - first:
+      213: -7275560160190858884
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_5
+  - first:
+      213: -7826040231999935053
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_6
+  - first:
+      213: 2852956305911338419
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_7
+  - first:
+      213: -502714143267156908
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_8
+  - first:
+      213: -7968988453549559013
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_9
+  - first:
+      213: -3616759828676534989
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_10
+  - first:
+      213: 6845138847602857591
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_11
+  - first:
+      213: 7505219857346368888
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_12
+  - first:
+      213: -7051587999034094643
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_13
+  - first:
+      213: -6375910880089640334
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_14
+  - first:
+      213: -8328095423975356274
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_15
+  - first:
+      213: -7979309390415530463
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_16
+  - first:
+      213: 19734623982817605
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_17
+  - first:
+      213: 1175095420140475256
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_18
+  - first:
+      213: 3206899531314396067
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_19
+  - first:
+      213: 8928926803370132088
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_20
+  - first:
+      213: -7101897201006254859
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_21
+  - first:
+      213: 890645914842503684
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_22
+  - first:
+      213: -8008411373445027555
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_23
+  - first:
+      213: -686765614088133934
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_24
+  - first:
+      213: -2233083403787079993
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_25
+  - first:
+      213: 2025902522797611757
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_26
+  - first:
+      213: -8217299296131040731
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_27
+  - first:
+      213: 292929075115926377
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_28
+  - first:
+      213: 7287874660700117769
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_29
+  - first:
+      213: -411293388133782069
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_30
+  - first:
+      213: -6373882290030386375
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_31
+  - first:
+      213: -8972202087995451178
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_32
+  - first:
+      213: -2561492557902131245
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_33
+  - first:
+      213: 997097517212521808
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_34
+  - first:
+      213: 3641516100047490318
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_35
+  - first:
+      213: -549273540979908748
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_36
+  - first:
+      213: -7147332023316757767
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_37
+  - first:
+      213: 8488175306050305352
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_38
+  - first:
+      213: -6525532623489878242
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_39
+  - first:
+      213: -805841141054208555
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_40
+  - first:
+      213: 6423509302066991443
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_41
+  - first:
+      213: 6067025284058291588
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_42
+  - first:
+      213: 7119098741566502523
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_43
+  - first:
+      213: -1937343662828148356
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_44
+  - first:
+      213: -168126865334344100
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_45
+  - first:
+      213: 8428161046615777938
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_46
+  - first:
+      213: 2801835105119740032
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_47
+  - first:
+      213: 713648353902852400
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_48
+  - first:
+      213: 334366577161639977
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_49
+  - first:
+      213: 3773667135478282407
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_50
+  - first:
+      213: 1459153855476933133
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_51
+  - first:
+      213: -6099316576156695079
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_52
+  - first:
+      213: 3886377925026760934
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_53
+  - first:
+      213: 3335535777997285000
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_54
+  - first:
+      213: -5646418450184321267
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_55
+  - first:
+      213: 3008935918673725552
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_56
+  - first:
+      213: 8813025868127970859
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_57
+  - first:
+      213: -1572150859640404567
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_58
+  - first:
+      213: -2832632919012786521
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_59
+  - first:
+      213: -6886240786525819104
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_60
+  - first:
+      213: -3908060975095934050
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_61
+  - first:
+      213: -8504508111217243242
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_62
+  - first:
+      213: -6003834407411451737
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_63
+  - first:
+      213: 1867155777861492691
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_64
+  - first:
+      213: -8438374876929576897
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_65
+  - first:
+      213: -2904615722250110008
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_66
+  - first:
+      213: -712119829040167044
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_67
+  - first:
+      213: -6623558750158656159
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_68
+  - first:
+      213: 475336873941250529
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_69
+  - first:
+      213: -1842338472999234547
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_70
+  - first:
+      213: -2398380480088722697
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_71
+  - first:
+      213: -5882292665014538084
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_72
+  - first:
+      213: -1765482037090259266
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_73
+  - first:
+      213: 675754983242164438
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_74
+  - first:
+      213: 6355234738034070347
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_75
+  - first:
+      213: 4150264046998762941
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_76
+  - first:
+      213: -2671127436064793811
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_77
+  - first:
+      213: 3837529287924375506
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_78
+  - first:
+      213: -7787451456033311912
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_79
+  - first:
+      213: -883270923290856976
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_80
+  - first:
+      213: -7957435188658285861
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_81
+  - first:
+      213: -987154489668958874
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_82
+  - first:
+      213: -2926680602191662412
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_83
+  - first:
+      213: 5555717029571894400
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_84
+  - first:
+      213: 2798854292304370075
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_85
+  - first:
+      213: -642640402774465535
+    second: ANF1
+  - first:
+      213: 6691620389523079758
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_87
+  - first:
+      213: -6496431664552793625
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_88
+  - first:
+      213: -5382060952354139756
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_89
+  - first:
+      213: 5670900723410388383
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_90
+  - first:
+      213: 4635542130932685910
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_91
+  - first:
+      213: -1794044393103300310
+    second: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_92
+  - first:
+      213: -3184122988676799921
+    second: ANF2
+  - first:
+      213: 7713105411587562706
+    second: ANF3
+  - first:
+      213: -6236703302431428888
+    second: ANF4
+  - first:
+      213: 2650128146291017413
+    second: NF1
+  - first:
+      213: 7169493721873903177
+    second: NF2
+  - first:
+      213: 2559613070515491041
+    second: NF3
+  - first:
+      213: -5996424057983550480
+    second: NF4
+  - first:
+      213: -6538498477697109558
+    second: NF5
+  - first:
+      213: -4924162497025299174
+    second: NF6
+  - first:
+      213: -8647952071414305860
+    second: NF7
+  - first:
+      213: -1653611753941282179
+    second: NF8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9f7cc00c0e4a650800000000000000
+      internalID: 6243362098895124904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 278
+        width: 148
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665438773604a6c30800000000000000
+      internalID: 4353362785758037350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 280
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0846db5f2bf954030800000000000000
+      internalID: 3478361878189401216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 255
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c9eca79b87a33c0800000000000000
+      internalID: -4379054949639742426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 138
+        width: 88
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8772866c01d1cbdb0800000000000000
+      internalID: -4774909547034171528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 273
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79f6d5f494080b90800000000000000
+      internalID: -7275560160190858884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_6
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 273
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd6ab58fd1546390800000000000000
+      internalID: -7826040231999935053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_7
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 273
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b55e8505acb79720800000000000000
+      internalID: 2852956305911338419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_8
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 273
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c0ff276200609f0800000000000000
+      internalID: -502714143267156908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 254
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b133df61937786190800000000000000
+      internalID: -7968988453549559013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 254
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d15d52910becdc0800000000000000
+      internalID: -3616759828676534989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 240
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7765899c381defe50800000000000000
+      internalID: 6845138847602857591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_12
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 240
+        width: 79
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875965622b5e72860800000000000000
+      internalID: 7505219857346368888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 242
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb4a27631ab32e90800000000000000
+      internalID: -7051587999034094643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_14
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 250
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27275b8e5d63487a0800000000000000
+      internalID: -6375910880089640334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_15
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 219
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8884660659ac6c80800000000000000
+      internalID: -8328095423975356274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_16
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 219
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126f757b26cc34190800000000000000
+      internalID: -7979309390415530463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 124
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5419544398c164000800000000000000
+      internalID: 19734623982817605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 224
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87359a60f07ce4010800000000000000
+      internalID: 1175095420140475256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab7c520222318c20800000000000000
+      internalID: 3206899531314396067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 224
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8724754ce9be9eb70800000000000000
+      internalID: 8928926803370132088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f46ea68f1ef07d90800000000000000
+      internalID: -7101897201006254859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 224
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a17de9db53c5c00800000000000000
+      internalID: 890645914842503684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d196c9649486cd090800000000000000
+      internalID: -8008411373445027555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 224
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2e258005e1876f0800000000000000
+      internalID: -686765614088133934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 224
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce6373c97e7201e0800000000000000
+      internalID: -2233083403787079993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 224
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea5bec5c937d1c10800000000000000
+      internalID: 2025902522797611757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aba09c3d946fd80800000000000000
+      internalID: -8217299296131040731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 224
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9632baa1171b01400800000000000000
+      internalID: 292929075115926377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 224
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bd99e146bb32560800000000000000
+      internalID: 7287874660700117769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_30
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 224
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcda1d5b7daca4af0800000000000000
+      internalID: -411293388133782069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e596d3db6b87a0800000000000000
+      internalID: -6373882290030386375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 222
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8530cdcb55c7380800000000000000
+      internalID: -8972202087995451178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 224
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfcf670710c37cd0800000000000000
+      internalID: -2561492557902131245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 224
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05550e7b8e666dd00800000000000000
+      internalID: 997097517212521808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 222
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d42337993498230800000000000000
+      internalID: 3641516100047490318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 224
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f1f59ef969068f0800000000000000
+      internalID: -549273540979908748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 222
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f24e6a94639fcc90800000000000000
+      internalID: -7147332023316757767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_38
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 224
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dfe54f77e0cc570800000000000000
+      internalID: 8488175306050305352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 224
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b9a617a6a075a0800000000000000
+      internalID: -6525532623489878242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_40
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 224
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5811270c311d4f0800000000000000
+      internalID: -805841141054208555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 224
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351de115da3e42950800000000000000
+      internalID: 6423509302066991443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_42
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 224
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d9b93f957623450800000000000000
+      internalID: 6067025284058291588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 224
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76700c369e1cc260800000000000000
+      internalID: 7119098741566502523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_44
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 224
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c792641043c2d15e0800000000000000
+      internalID: -1937343662828148356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_45
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 209
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56eb8ab181baadf0800000000000000
+      internalID: -168126865334344100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_46
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 209
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292615d41d7d6f470800000000000000
+      internalID: 8428161046615777938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 209
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080a1efee2e12e620800000000000000
+      internalID: 2801835105119740032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_48
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 209
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039fbe4956367e900800000000000000
+      internalID: 713648353902852400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_49
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 211
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9289b7061a8e3a400800000000000000
+      internalID: 334366577161639977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_50
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 211
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8bfb61442ce5430800000000000000
+      internalID: 3773667135478282407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_51
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 211
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02285c53b4ff3410800000000000000
+      internalID: 1459153855476933133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_52
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 211
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d54789b3efda5ba0800000000000000
+      internalID: -6099316576156695079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_53
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 195
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c324c1203fe530800000000000000
+      internalID: 3886377925026760934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_54
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 194
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886622f1e143a4e20800000000000000
+      internalID: 3335535777997285000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_55
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 222
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d074d87e554e3a1b0800000000000000
+      internalID: -5646418450184321267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_56
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 222
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0780678a643e1c920800000000000000
+      internalID: 3008935918673725552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 212
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a81a65582e4a70800000000000000
+      internalID: 8813025868127970859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_58
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 212
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a50fcd6f199e2ae0800000000000000
+      internalID: -1572150859640404567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_59
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 212
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae3a2b3e5770b8d0800000000000000
+      internalID: -2832632919012786521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_60
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 212
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f62515d782f60a0800000000000000
+      internalID: -6886240786525819104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 212
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9317dabf37c3c9c0800000000000000
+      internalID: -3908060975095934050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 212
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc7718eeae9f980800000000000000
+      internalID: -8504508111217243242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_63
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 212
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8f8f78a681eaca0800000000000000
+      internalID: -6003834407411451737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_64
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 212
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df90cf894879e910800000000000000
+      internalID: 1867155777861492691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_65
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30380302ced4ea80800000000000000
+      internalID: -8438374876929576897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_66
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 212
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb7442d36bb0b7d0800000000000000
+      internalID: -2904615722250110008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_67
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 212
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c778c88d9ca0e16f0800000000000000
+      internalID: -712119829040167044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_68
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16decdbe8646414a0800000000000000
+      internalID: -6623558750158656159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_69
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1b9ef4e5cb89600800000000000000
+      internalID: 475336873941250529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_70
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 212
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0458d08be2be66e0800000000000000
+      internalID: -1842338472999234547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_71
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 212
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2b41819ad37bed0800000000000000
+      internalID: -2398380480088722697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_72
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 212
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c903ce4acf5ed5ea0800000000000000
+      internalID: -5882292665014538084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_73
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 212
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee6e1f07fbf77e0800000000000000
+      internalID: -1765482037090259266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_74
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 203
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d86953b393c06900800000000000000
+      internalID: 675754983242164438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_75
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 203
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b435eb0a254523850800000000000000
+      internalID: 6355234738034070347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_76
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 203
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5bf656923b89930800000000000000
+      internalID: 4150264046998762941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_77
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 202
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bde87cfbf3eead0800000000000000
+      internalID: -2671127436064793811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_78
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfd3e52e84a14530800000000000000
+      internalID: 3837529287924375506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_79
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8533981192a6de390800000000000000
+      internalID: -7787451456033311912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_80
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 192
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f131d866cdfdb3f0800000000000000
+      internalID: -883270923290856976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_81
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 192
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd254d03bd2819190800000000000000
+      internalID: -7957435188658285861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_82
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 192
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66589d8c83cec42f0800000000000000
+      internalID: -987154489668958874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_83
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 192
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2f65f9f775267d0800000000000000
+      internalID: -2926680602191662412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_84
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 192
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c9834f33fd91d40800000000000000
+      internalID: 5555717029571894400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_85
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 192
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9911ee562787d620800000000000000
+      internalID: 2798854292304370075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANF1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104605265f1e417f0800000000000000
+      internalID: -642640402774465535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_87
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 136
+        width: 429
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42c8416a496ddc50800000000000000
+      internalID: 6691620389523079758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_88
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 139
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e92bb612d908d5a0800000000000000
+      internalID: -6496431664552793625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_89
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 169
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4915e6744141f45b0800000000000000
+      internalID: -5382060952354139756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_90
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 174
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95c167892613be40800000000000000
+      internalID: 5670900723410388383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_91
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 175
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c99970201c45040800000000000000
+      internalID: 4635542130932685910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 042 Golbat_92
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 168
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29ebc531264a17e0800000000000000
+      internalID: -1794044393103300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANF2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 119
+        width: 148
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42a3c21309bfc3d0800000000000000
+      internalID: -3184122988676799921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANF3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 122
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcd1dc81847a0b60800000000000000
+      internalID: 7713105411587562706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANF4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 96
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eea111d367c279a0800000000000000
+      internalID: -6236703302431428888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NF1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 26
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c0f0128527c420800000000000000
+      internalID: 2650128146291017413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NF2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 148
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eefafed882f7360800000000000000
+      internalID: 7169493721873903177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NF3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 33
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0d586b682958320800000000000000
+      internalID: 2559613070515491041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NF4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 6
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbb845f61c68cca0800000000000000
+      internalID: -5996424057983550480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NF5
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac17e68e6469245a0800000000000000
+      internalID: -6538498477697109558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NF6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 26
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1da18c5c4cd9abb0800000000000000
+      internalID: -4924162497025299174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NF7
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 13
+        width: 148
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2fbce86d4cf780800000000000000
+      internalID: -8647952071414305860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NF8
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d725be9fed03d09e0800000000000000
+      internalID: -1653611753941282179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

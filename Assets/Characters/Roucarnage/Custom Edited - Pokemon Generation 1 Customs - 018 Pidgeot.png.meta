@@ -1,0 +1,2904 @@
+fileFormatVersion: 2
+guid: f8979873a2312604eb4cad2f06ac0d1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2632965215205825010
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_0
+  - first:
+      213: 4867742621335306713
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_1
+  - first:
+      213: -3985772422047020059
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_2
+  - first:
+      213: 6978065886594069642
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_3
+  - first:
+      213: 2436178028694793944
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_4
+  - first:
+      213: -3049150096078873029
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_5
+  - first:
+      213: 7858653105203585572
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_6
+  - first:
+      213: -7568310834586143746
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_7
+  - first:
+      213: 9066251915214169968
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_8
+  - first:
+      213: 7009118016932226379
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_9
+  - first:
+      213: 4934840549242133544
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_10
+  - first:
+      213: -6880370671643951014
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_11
+  - first:
+      213: -303698563202733490
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_12
+  - first:
+      213: -4383360534867104706
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_13
+  - first:
+      213: -3966398293210966659
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_14
+  - first:
+      213: 5777169432839122131
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_15
+  - first:
+      213: 1296965365918312564
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_16
+  - first:
+      213: 4379730789019444562
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_17
+  - first:
+      213: 3402568997536110136
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_18
+  - first:
+      213: -2077275846263238510
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_19
+  - first:
+      213: 5723343847038756054
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_20
+  - first:
+      213: 2308135869801086820
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_21
+  - first:
+      213: 6804820471535823492
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_22
+  - first:
+      213: 437353790714332920
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_23
+  - first:
+      213: -7403232973543920299
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_24
+  - first:
+      213: 8762564955077056925
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_25
+  - first:
+      213: 978601561871471752
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_26
+  - first:
+      213: -1245788751594579278
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_27
+  - first:
+      213: -2212845921654527904
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_28
+  - first:
+      213: -5862874463770184648
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_29
+  - first:
+      213: -3637018548627672702
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_30
+  - first:
+      213: -7830020963658202748
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_31
+  - first:
+      213: -7885675962327627024
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_32
+  - first:
+      213: 4600396772901688666
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_33
+  - first:
+      213: 2532354919546422824
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_34
+  - first:
+      213: -209043151028754005
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_35
+  - first:
+      213: 1626714724416835527
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_36
+  - first:
+      213: -5245120807867451640
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_37
+  - first:
+      213: 2006404755213471078
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_38
+  - first:
+      213: -325984682277732682
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_39
+  - first:
+      213: 5563818096101835394
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_40
+  - first:
+      213: -8230424586435110047
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_41
+  - first:
+      213: 2635963386105323173
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_42
+  - first:
+      213: -7435459352715835882
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_43
+  - first:
+      213: 3901511077555220059
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_44
+  - first:
+      213: -3444565533698015994
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_45
+  - first:
+      213: 6112378531940992118
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_46
+  - first:
+      213: -1904116298256893681
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_47
+  - first:
+      213: -4829036155132401770
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_48
+  - first:
+      213: 5240140641966289272
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_49
+  - first:
+      213: -5085523408962542788
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_50
+  - first:
+      213: 7378941695463046610
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_51
+  - first:
+      213: 99320197342899385
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_52
+  - first:
+      213: -4365908779365518252
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_53
+  - first:
+      213: -4698634611379176045
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_54
+  - first:
+      213: 7071893785133949017
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_55
+  - first:
+      213: -2048635650683970581
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_56
+  - first:
+      213: 6339596381698008023
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_57
+  - first:
+      213: -7248927163276901036
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_58
+  - first:
+      213: -5032822726444037819
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_59
+  - first:
+      213: 3581903292848678894
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_60
+  - first:
+      213: -8936510384422300109
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_61
+  - first:
+      213: 8627754763672018327
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_62
+  - first:
+      213: -5007872970890923826
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_63
+  - first:
+      213: 3539689811179747213
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_64
+  - first:
+      213: 8795360827818351915
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_65
+  - first:
+      213: -2110187891197094849
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_66
+  - first:
+      213: 7842675633031385312
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_67
+  - first:
+      213: 8543219290979483481
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_68
+  - first:
+      213: -8770711580461812790
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_69
+  - first:
+      213: 6401865840656906500
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_70
+  - first:
+      213: -5948506933942599892
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_71
+  - first:
+      213: 6503356961753223587
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_72
+  - first:
+      213: 2814020170697304858
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_73
+  - first:
+      213: 7053745503857881789
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_74
+  - first:
+      213: 6943671063224792932
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_75
+  - first:
+      213: 2982629849387649383
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_76
+  - first:
+      213: 8822220449366214096
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_77
+  - first:
+      213: -7118603068810796810
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_78
+  - first:
+      213: 640614128779850575
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_79
+  - first:
+      213: 5307766330549750160
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_80
+  - first:
+      213: -5306243210882217570
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_81
+  - first:
+      213: 3459518773888088357
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_82
+  - first:
+      213: 3311461340911549688
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_83
+  - first:
+      213: -3566121221088571279
+    second: RoucarnageFly1
+  - first:
+      213: 1266753624458227029
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_85
+  - first:
+      213: -5355686602895922795
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_86
+  - first:
+      213: 2469625584025485836
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_87
+  - first:
+      213: -4478851623229280668
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_88
+  - first:
+      213: -6930695412677414921
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_89
+  - first:
+      213: 2191676567658353474
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_90
+  - first:
+      213: -1119677194503043046
+    second: RoucarnageFly2
+  - first:
+      213: -176275994771769483
+    second: RoucarnageFly3
+  - first:
+      213: 8651093055572480553
+    second: RoucarnageFly4
+  - first:
+      213: 5142449212458037302
+    second: RoucarnageFly5
+  - first:
+      213: 3670593812374319900
+    second: RoucarnageFly6
+  - first:
+      213: 7462222283128419808
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_96
+  - first:
+      213: -4671034216262484304
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_97
+  - first:
+      213: 2520678766730638535
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_98
+  - first:
+      213: -7165921032084647429
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_99
+  - first:
+      213: 6183275545031046093
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_100
+  - first:
+      213: -6424491922838429297
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_101
+  - first:
+      213: 5583766226158312541
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_102
+  - first:
+      213: -139745095086667182
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_103
+  - first:
+      213: 8547218004509788885
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_104
+  - first:
+      213: -5574173624733595923
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_105
+  - first:
+      213: 3765423013876540770
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_106
+  - first:
+      213: -7329978919578157511
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_107
+  - first:
+      213: -4444624795358950479
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_108
+  - first:
+      213: -4744686414178315076
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_109
+  - first:
+      213: 9043198625679269172
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_110
+  - first:
+      213: -3902919280887522948
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_111
+  - first:
+      213: 5968536253761923545
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_112
+  - first:
+      213: -39180061670698043
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_113
+  - first:
+      213: -2000773287603774134
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_114
+  - first:
+      213: 6560380168850281824
+    second: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_115
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f99d46c9eb2a8420800000000000000
+      internalID: 2632965215205825010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 253
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d148baaf12bd8340800000000000000
+      internalID: 4867742621335306713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 253
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebc6548911bfa8c0800000000000000
+      internalID: -3985772422047020059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 253
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84f5b5d3f117d060800000000000000
+      internalID: 6978065886594069642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 253
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dee6f9720b0fc120800000000000000
+      internalID: 2436178028694793944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 293
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ede58842e3fa5d0800000000000000
+      internalID: -3049150096078873029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_6
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 261
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4222eacbc5b8f0d60800000000000000
+      internalID: 7858653105203585572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_7
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 266
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3b0c20565f7f690800000000000000
+      internalID: -7568310834586143746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 288
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077ab82f41cc1dd70800000000000000
+      internalID: 9066251915214169968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_9
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 278
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45290453b3654160800000000000000
+      internalID: 7009118016932226379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_10
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 257
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c55c865531c7440800000000000000
+      internalID: 4934840549242133544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 130
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5085a1f3530480a0800000000000000
+      internalID: -6880370671643951014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_12
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 245
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a218d04cb09cbf0800000000000000
+      internalID: -303698563202733490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_13
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 245
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ca7cc41dc2b23c0800000000000000
+      internalID: -4383360534867104706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_14
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 215
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75d17764c584f8c0800000000000000
+      internalID: -3966398293210966659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_15
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 235
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcee9b8df0ac2050800000000000000
+      internalID: 5777169432839122131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_16
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 237
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ab81f02fbff110800000000000000
+      internalID: 1296965365918312564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_17
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 207
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2556853a2fde7cc30800000000000000
+      internalID: 4379730789019444562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83695e5c97a583f20800000000000000
+      internalID: 3402568997536110136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 216
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2901bfaaf980c23e0800000000000000
+      internalID: -2077275846263238510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_20
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 216
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4a922c7e66d6f40800000000000000
+      internalID: 5723343847038756054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 221
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fb4d43855280020800000000000000
+      internalID: 2308135869801086820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 216
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ae2365a249f6e50800000000000000
+      internalID: 6804820471535823492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 216
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6c2b894fac11600800000000000000
+      internalID: 437353790714332920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 216
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55da476a5de624990800000000000000
+      internalID: -7403232973543920299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9997ac8662ea9970800000000000000
+      internalID: 8762564955077056925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 216
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884ddf78fe0b49d00800000000000000
+      internalID: 978601561871471752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 216
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba170c1bb116bee0800000000000000
+      internalID: -1245788751594579278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0682c11cb546a41e0800000000000000
+      internalID: -2212845921654527904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 216
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834f440fcb2e2aea0800000000000000
+      internalID: -5862874463770184648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2817a8756e6b68dc0800000000000000
+      internalID: -3637018548627672702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 216
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4818a453b6d265390800000000000000
+      internalID: -7830020963658202748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_32
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 213
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa00ab0e73709290800000000000000
+      internalID: -7885675962327627024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_33
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5598a2bd74e7df30800000000000000
+      internalID: 4600396772901688666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_34
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82607c0e16bb42320800000000000000
+      internalID: 2532354919546422824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 216
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9e3389c54591df0800000000000000
+      internalID: -209043151028754005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 213
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf43c35c60439610800000000000000
+      internalID: 1626714724416835527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 216
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807fc034a669537b0800000000000000
+      internalID: -5245120807867451640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_38
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 216
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d47269e7e28db10800000000000000
+      internalID: 2006404755213471078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_39
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 216
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6befd9a98aed97bf0800000000000000
+      internalID: -325984682277732682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 216
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2824a0d7417a63d40800000000000000
+      internalID: 5563818096101835394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_41
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 213
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bd4eef178a7cd80800000000000000
+      internalID: -8230424586435110047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_42
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 216
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae5eb5dbb2d49420800000000000000
+      internalID: 2635963386105323173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_43
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 213
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616448b0d11ffc890800000000000000
+      internalID: -7435459352715835882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_44
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 216
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e2ee867a3f42630800000000000000
+      internalID: 3901511077555220059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d306ea5e17230d0800000000000000
+      internalID: -3444565533698015994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_46
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 216
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6740119d3e783d450800000000000000
+      internalID: 6112378531940992118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_47
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 216
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09bd5fa0583395e0800000000000000
+      internalID: -1904116298256893681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 216
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a0d5c331dbfcb0800000000000000
+      internalID: -4829036155132401770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 216
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871fc718628b8b840800000000000000
+      internalID: 5240140641966289272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_50
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 216
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33aadf57679c69b0800000000000000
+      internalID: -5085523408962542788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 216
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddb4607064476660800000000000000
+      internalID: 7378941695463046610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_52
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 210
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc25a9713bd06100800000000000000
+      internalID: 99320197342899385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_53
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 212
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454b824c81d2963c0800000000000000
+      internalID: -4365908779365518252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_54
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 216
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d736327b81bceb0800000000000000
+      internalID: -4698634611379176045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_55
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 202
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950a338dde9642260800000000000000
+      internalID: 7071893785133949017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_56
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 205
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebd7c6dab8c193e0800000000000000
+      internalID: -2048635650683970581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 198
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3267e0255caf750800000000000000
+      internalID: 6339596381698008023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 198
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4554336c623a66b90800000000000000
+      internalID: -7248927163276901036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 198
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5494ac43562d72ab0800000000000000
+      internalID: -5032822726444037819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_60
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 198
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee72c0e211a75b130800000000000000
+      internalID: 3581903292848678894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_61
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 198
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3365bec27232bf380800000000000000
+      internalID: -8936510384422300109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_62
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 198
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ddad9ee31fbb770800000000000000
+      internalID: 8627754763672018327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_63
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 198
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec034c9d016708ab0800000000000000
+      internalID: -5007872970890923826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_64
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 198
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87307211218f1130800000000000000
+      internalID: 3539689811179747213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_65
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 198
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d9f75b2166f0a70800000000000000
+      internalID: 8795360827818351915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 198
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34dddf0b4b17b2e0800000000000000
+      internalID: -2110187891197094849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_67
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 198
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0927b9fe7c6dc60800000000000000
+      internalID: 7842675633031385312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 198
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fb8156eac9f8670800000000000000
+      internalID: 8543219290979483481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 198
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac33b2b694c284680800000000000000
+      internalID: -8770711580461812790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_70
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 198
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409ff04401ff7d850800000000000000
+      internalID: 6401865840656906500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 195
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f376ac578a27da0800000000000000
+      internalID: -5948506933942599892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_72
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 198
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a15dd053b0904a50800000000000000
+      internalID: 6503356961753223587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 198
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b62399f686d0720800000000000000
+      internalID: 2814020170697304858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 198
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db23575d920f3e160800000000000000
+      internalID: 7053745503857881789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_75
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 198
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4673ca8fa00ec5060800000000000000
+      internalID: 6943671063224792932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_76
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 198
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7694a3d9b0e646920800000000000000
+      internalID: 2982629849387649383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_77
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 198
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d509aea1c2de6a70800000000000000
+      internalID: 8822220449366214096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_78
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 198
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0e6829934a53d90800000000000000
+      internalID: -7118603068810796810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_79
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 198
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f400f72be3e800800000000000000
+      internalID: 640614128779850575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_80
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 172
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099423b1b59f8a940800000000000000
+      internalID: 5307766330549750160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_81
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 190
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e998983d9ef6c56b0800000000000000
+      internalID: -5306243210882217570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_82
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 188
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529f46bdefda20030800000000000000
+      internalID: 3459518773888088357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_83
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 200
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb8707b8ca4fd20800000000000000
+      internalID: 3311461340911549688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoucarnageFly1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170980fb4a7928ec0800000000000000
+      internalID: -3566121221088571279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_85
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 137
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d65cbb5b9649110800000000000000
+      internalID: 1266753624458227029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_86
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 134
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e11a0967cca5b0800000000000000
+      internalID: -5355686602895922795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_87
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 136
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c024e00526fd54220800000000000000
+      internalID: 2469625584025485836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_88
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 144
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eacbbbd2ce7d1c0800000000000000
+      internalID: -4478851623229280668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_89
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 167
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffeee81e3931df90800000000000000
+      internalID: -6930695412677414921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_90
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 142
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243d2dde9366a6e10800000000000000
+      internalID: 2191676567658353474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoucarnageFly2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 94
+        width: 122
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a184a8e168b1670f0800000000000000
+      internalID: -1119677194503043046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoucarnageFly3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 81
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577333daaedbd8df0800000000000000
+      internalID: -176275994771769483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoucarnageFly4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 100
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9221f307c4bde0870800000000000000
+      internalID: 8651093055572480553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoucarnageFly5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 93
+        width: 101
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6307c081056ad5740800000000000000
+      internalID: 5142449212458037302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoucarnageFly6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 93
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13715def9190f230800000000000000
+      internalID: 3670593812374319900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_96
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 147
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5bfd441a32f8760800000000000000
+      internalID: 7462222283128419808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_97
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 100
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bebaf5e0272d2fb0800000000000000
+      internalID: -4671034216262484304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_98
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 89
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c479d3bbff3bf220800000000000000
+      internalID: 2520678766730638535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_99
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 96
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1181ab9c88d8c90800000000000000
+      internalID: -7165921032084647429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_100
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 96
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc37fe909586fc550800000000000000
+      internalID: 6183275545031046093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_101
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 95
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8169d472ae97d6a0800000000000000
+      internalID: -6424491922838429297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_102
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 95
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c5df27cc58d7d40800000000000000
+      internalID: 5583766226158312541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a814093968f0ef0800000000000000
+      internalID: -139745095086667182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_104
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da01a07d71dd9670800000000000000
+      internalID: 8547218004509788885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_105
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6076d1f9e84a2b0800000000000000
+      internalID: -5574173624733595923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2652133f748714430800000000000000
+      internalID: 3765423013876540770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_107
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 131
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e317f220fa64a90800000000000000
+      internalID: -7329978919578157511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_108
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb8cb81c458152c0800000000000000
+      internalID: -4444624795358950479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_109
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4974048dc772eb0800000000000000
+      internalID: -4744686414178315076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_110
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dd9e4bc35ef7d70800000000000000
+      internalID: 9043198625679269172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_111
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 62
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c791da3b79b06d9c0800000000000000
+      internalID: -3902919280887522948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_112
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 43
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92582a91084d250800000000000000
+      internalID: 5968536253761923545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_113
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 43
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c317d501fdc47ff0800000000000000
+      internalID: -39180061670698043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_114
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 37
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d5944ab43db34e0800000000000000
+      internalID: -2000773287603774134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 018 Pidgeot_115
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 37
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06596d351072b0b50800000000000000
+      internalID: 6560380168850281824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

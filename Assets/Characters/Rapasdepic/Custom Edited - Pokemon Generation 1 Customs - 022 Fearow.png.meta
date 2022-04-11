@@ -1,0 +1,2160 @@
+fileFormatVersion: 2
+guid: 6e03fb570fdfdd446b4a53ec928e8abe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6562572132411257972
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_0
+  - first:
+      213: 1761648025587046856
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_1
+  - first:
+      213: 6229830278420655903
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_2
+  - first:
+      213: 3054613297710046867
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_3
+  - first:
+      213: -829129950444212354
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_4
+  - first:
+      213: -4023713347568526719
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_5
+  - first:
+      213: -701436877912240714
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_6
+  - first:
+      213: 3891021318051285862
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_7
+  - first:
+      213: 2460108283336784846
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_8
+  - first:
+      213: -1067984126736234732
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_9
+  - first:
+      213: 1730978779701718882
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_10
+  - first:
+      213: -1318768535239801313
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_11
+  - first:
+      213: -551133002152494276
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_12
+  - first:
+      213: -5850331581735658188
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_13
+  - first:
+      213: -5484401675148098305
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_14
+  - first:
+      213: 8556246611123054249
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_15
+  - first:
+      213: -7708335144964889948
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_16
+  - first:
+      213: 8479236211264595453
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_17
+  - first:
+      213: -2380304574292048865
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_18
+  - first:
+      213: -6851213682208419194
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_19
+  - first:
+      213: 6041607555848133332
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_20
+  - first:
+      213: 4801103558463017435
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_21
+  - first:
+      213: -5943758483200312285
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_22
+  - first:
+      213: 6091745535597544304
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_23
+  - first:
+      213: -3665592856540012572
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_24
+  - first:
+      213: -5402277630380442825
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_25
+  - first:
+      213: 792616176140353155
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_26
+  - first:
+      213: 7282008720201806042
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_27
+  - first:
+      213: 8326356308844732219
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_28
+  - first:
+      213: 2403035062173852848
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_29
+  - first:
+      213: 9021197237926428115
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_30
+  - first:
+      213: 3300016583554821728
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_31
+  - first:
+      213: -2796795368914200573
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_32
+  - first:
+      213: 7323705415130860462
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_33
+  - first:
+      213: -4038037013555995800
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_34
+  - first:
+      213: -7138019363037575028
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_35
+  - first:
+      213: -3952437752830899462
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_36
+  - first:
+      213: -5476313317289121743
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_37
+  - first:
+      213: 2193777280404668729
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_38
+  - first:
+      213: 7905932651385842072
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_39
+  - first:
+      213: 3534353671439247933
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_40
+  - first:
+      213: -7419134022473815843
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_41
+  - first:
+      213: -1341458390193695418
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_42
+  - first:
+      213: 3713780275929087945
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_43
+  - first:
+      213: -1875283419972614875
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_44
+  - first:
+      213: 6231181751298121704
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_45
+  - first:
+      213: -8424972586846947978
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_46
+  - first:
+      213: -2460068711362333313
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_47
+  - first:
+      213: 6524807037907432632
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_48
+  - first:
+      213: 2726795125888700871
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_49
+  - first:
+      213: 4401797964547739822
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_50
+  - first:
+      213: 5858834141900337410
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_51
+  - first:
+      213: 3414913211101729078
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_52
+  - first:
+      213: -8150835994361260985
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_53
+  - first:
+      213: -4537709361757511213
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_54
+  - first:
+      213: 187011355526531015
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_55
+  - first:
+      213: 7915507023971580443
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_56
+  - first:
+      213: 6801673467193343660
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_57
+  - first:
+      213: 2971579459282256458
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_58
+  - first:
+      213: -2981215664213955965
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_59
+  - first:
+      213: 6748323722598526891
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_60
+  - first:
+      213: -6034607611527629434
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_61
+  - first:
+      213: 1510688037617065724
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_62
+  - first:
+      213: 2785306883890434168
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_63
+  - first:
+      213: -6906020215533072392
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_64
+  - first:
+      213: -7834413291935869078
+    second: ARA1
+  - first:
+      213: -8298708120217561515
+    second: ARA2
+  - first:
+      213: 174600239274779504
+    second: ARA3
+  - first:
+      213: 8160132838733582499
+    second: ARA4
+  - first:
+      213: -3275913132107214911
+    second: ARA5
+  - first:
+      213: -8344995746812058241
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_70
+  - first:
+      213: -4355005937212141261
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_71
+  - first:
+      213: 5968689541614659128
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_72
+  - first:
+      213: 5810919988531752298
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_73
+  - first:
+      213: 7030375741638201041
+    second: ARA6
+  - first:
+      213: 4555385745617070037
+    second: ARA7
+  - first:
+      213: -7340695281810637382
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_76
+  - first:
+      213: 8777628588669973604
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_77
+  - first:
+      213: -5989018414082921195
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_78
+  - first:
+      213: 3814268930343008544
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_79
+  - first:
+      213: -7456667613028231043
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_80
+  - first:
+      213: 2607381980819969697
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_81
+  - first:
+      213: -4653127926973410627
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_82
+  - first:
+      213: 8256515956086898574
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_83
+  - first:
+      213: 8572887902315270814
+    second: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_84
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 311
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bcfb26a6f0de4a0800000000000000
+      internalID: -6562572132411257972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 314
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c95260bb81a27810800000000000000
+      internalID: 1761648025587046856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 314
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6c3491adc47650800000000000000
+      internalID: 6229830278420655903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 303
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e11383c9a246a20800000000000000
+      internalID: 3054613297710046867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 314
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fa227f3b65e74f0800000000000000
+      internalID: -829129950444212354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_5
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 311
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a1e286706e828c0800000000000000
+      internalID: -4023713347568526719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_6
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 311
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd8eab30eef346f0800000000000000
+      internalID: -701436877912240714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 226
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4be3f54faff530800000000000000
+      internalID: 3891021318051285862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 291
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf841137f042220800000000000000
+      internalID: 2460108283336784846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 260
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417812c5812cd21f0800000000000000
+      internalID: -1067984126736234732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 270
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f2cdd670ca50810800000000000000
+      internalID: 1730978779701718882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 256
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16c11c110bc2bde0800000000000000
+      internalID: -1318768535239801313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 270
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bb4be547bf958f0800000000000000
+      internalID: -551133002152494276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 270
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d956c3c627fcea0800000000000000
+      internalID: -5850331581735658188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 270
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff48d3bebbd73e3b0800000000000000
+      internalID: -5484401675148098305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 270
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a621aab5f4edb670800000000000000
+      internalID: 8556246611123054249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 270
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a265b2b60e760590800000000000000
+      internalID: -7708335144964889948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 270
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df52e03c86c4ca570800000000000000
+      internalID: 8479236211264595453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 268
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14c510e99577fed0800000000000000
+      internalID: -2380304574292048865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 270
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682dbaf84799be0a0800000000000000
+      internalID: -6851213682208419194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 270
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dad4aeef0a18d350800000000000000
+      internalID: 6041607555848133332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_21
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 268
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd15d04cf32f0a240800000000000000
+      internalID: 4801103558463017435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 270
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c7122a627838da0800000000000000
+      internalID: -5943758483200312285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 270
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730d570a4a3a8450800000000000000
+      internalID: 6091745535597544304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 270
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef19b6d7b2312dc0800000000000000
+      internalID: -3665592856540012572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 270
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b722f1e114705b0800000000000000
+      internalID: -5402277630380442825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 270
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ef2167630fffa00800000000000000
+      internalID: 792616176140353155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 270
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0fcea6954ee0560800000000000000
+      internalID: 7282008720201806042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 275
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fd50ea2f82d8370800000000000000
+      internalID: 8326356308844732219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_29
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 268
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b46eaf38ab495120800000000000000
+      internalID: 2403035062173852848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_30
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 270
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf65f671bb13d70800000000000000
+      internalID: 9021197237926428115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_31
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 270
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eeea739930ccd20800000000000000
+      internalID: 3300016583554821728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_32
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 270
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30859661e69cf29d0800000000000000
+      internalID: -2796795368914200573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 270
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabca7cb54703a560800000000000000
+      internalID: 7323705415130860462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 270
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b9d190bb206f7c0800000000000000
+      internalID: -4038037013555995800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 270
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88094a4539a0fc90800000000000000
+      internalID: -7138019363037575028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 270
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afacba10ece1629c0800000000000000
+      internalID: -3952437752830899462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_37
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 270
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138ad3c7d0a3004b0800000000000000
+      internalID: -5476313317289121743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 268
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931c7da30dcd17e10800000000000000
+      internalID: 2193777280404668729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 270
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899e308ebd387bd60800000000000000
+      internalID: 7905932651385842072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_40
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 270
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aebb830fb8c0130800000000000000
+      internalID: 3534353671439247933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_41
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 258
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8ee613ae0f90990800000000000000
+      internalID: -7419134022473815843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_42
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 244
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645998393be226de0800000000000000
+      internalID: -1341458390193695418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_43
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 258
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cffa980c7ff98330800000000000000
+      internalID: 3713780275929087945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_44
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 258
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5254a5b4aa7a9f5e0800000000000000
+      internalID: -1875283419972614875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 258
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef5501e9ca997650800000000000000
+      internalID: 6231181751298121704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_46
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 258
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6757596d11c741b80800000000000000
+      internalID: -8424972586846947978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_47
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 258
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f1308a841cddd0800000000000000
+      internalID: -2460068711362333313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f07a5e65cc8a50800000000000000
+      internalID: 6524807037907432632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_49
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 258
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1dcd548b587d520800000000000000
+      internalID: 2726795125888700871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 258
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0d7e15de3561d30800000000000000
+      internalID: 4401797964547739822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_51
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20176e15c92ce4150800000000000000
+      internalID: 5858834141900337410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_52
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 258
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631d186f875346f20800000000000000
+      internalID: 3414913211101729078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 258
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74411ad19d962ee80800000000000000
+      internalID: -8150835994361260985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1aa769061d601c0800000000000000
+      internalID: -4537709361757511213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_55
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 258
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c78f1746d5689200800000000000000
+      internalID: 187011355526531015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_56
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 258
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a7fec33b789dd60800000000000000
+      internalID: 7915507023971580443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 258
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae324a4bf5646e50800000000000000
+      internalID: 6801673467193343660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_58
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 258
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42cd5c26cb2d3920800000000000000
+      internalID: 2971579459282256458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_59
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 258
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a62b7062890a6d0800000000000000
+      internalID: -2981215664213955965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_60
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 226
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa3daebacd6ad50800000000000000
+      internalID: 6748323722598526891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_61
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 232
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685f60c9954c04ca0800000000000000
+      internalID: -6034607611527629434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_62
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 227
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfed89824ca07f410800000000000000
+      internalID: 1510688037617065724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_63
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 226
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8705dbc8ad567a620800000000000000
+      internalID: 2785306883890434168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_64
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 239
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff0c712433e820a0800000000000000
+      internalID: -6906020215533072392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARA1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6750969e92964390800000000000000
+      internalID: -7834413291935869078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARA2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55658cfdee015dc80800000000000000
+      internalID: -8298708120217561515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARA3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 154
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073eba71efd4c6200800000000000000
+      internalID: 174600239274779504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARA4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 143
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a017b4259d9e3170800000000000000
+      internalID: 8160132838733582499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARA5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 156
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf46b5ec5e9982d0800000000000000
+      internalID: -3275913132107214911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_70
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 185
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f752f1bf49e903c80800000000000000
+      internalID: -8344995746812058241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_71
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 185
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331d0c58c29ef83c0800000000000000
+      internalID: -4355005937212141261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_72
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 173
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836e78eb38b05d250800000000000000
+      internalID: 5968689541614659128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_73
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 173
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6de6a621f884a050800000000000000
+      internalID: 5810919988531752298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARA6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de4edd0d79e09160800000000000000
+      internalID: 7030375741638201041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARA7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 80
+        width: 115
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7226e333bf73f30800000000000000
+      internalID: 4555385745617070037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_76
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 132
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd7a4ba88c902a90800000000000000
+      internalID: -7340695281810637382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_77
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 131
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464bcfd02b660d970800000000000000
+      internalID: 8777628588669973604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_78
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 138
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d605bcb7bb2eca0800000000000000
+      internalID: -5989018414082921195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_79
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 133
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02977ee12610fe430800000000000000
+      internalID: 3814268930343008544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_80
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 95
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78da452058948890800000000000000
+      internalID: -7456667613028231043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_81
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 95
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a65788d8184f2420800000000000000
+      internalID: 2607381980819969697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2dc42cdc4cc6fb0800000000000000
+      internalID: -4653127926973410627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_83
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f77e46489059270800000000000000
+      internalID: 8256515956086898574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 022 Fearow_84
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 9
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92deb4402409f670800000000000000
+      internalID: 8572887902315270814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

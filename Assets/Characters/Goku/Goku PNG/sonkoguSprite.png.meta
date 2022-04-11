@@ -1,0 +1,5496 @@
+fileFormatVersion: 2
+guid: ee05bfde5444d406383efd83355a40f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7332526283910661256
+    second: sonkoguSprite_0
+  - first:
+      213: 1694782894424893034
+    second: sonkoguSprite_1
+  - first:
+      213: -840257658187609712
+    second: sonkoguSprite_2
+  - first:
+      213: -3881070797396113536
+    second: sonkoguSprite_3
+  - first:
+      213: 5780947602014513487
+    second: sonkoguSprite_4
+  - first:
+      213: -9125249774526825413
+    second: sonkoguSprite_5
+  - first:
+      213: 4487627205862440533
+    second: sonkoguSprite_6
+  - first:
+      213: -8919791304455438009
+    second: sonkoguSprite_7
+  - first:
+      213: 5846878089211839796
+    second: sonkoguSprite_8
+  - first:
+      213: 7764971324415892364
+    second: sonkoguSprite_9
+  - first:
+      213: -278144628801492020
+    second: sonkoguSprite_10
+  - first:
+      213: -388883468904977570
+    second: sonkoguSprite_11
+  - first:
+      213: -114782756019532969
+    second: sonkoguSprite_12
+  - first:
+      213: -687975319704455958
+    second: sonkoguSprite_13
+  - first:
+      213: -6840659898724798222
+    second: sonkoguSprite_14
+  - first:
+      213: -3339512313287742006
+    second: sonkoguSprite_15
+  - first:
+      213: 985172890053567366
+    second: sonkoguSprite_16
+  - first:
+      213: 334958419887573209
+    second: sonkoguSprite_17
+  - first:
+      213: 3121299021809703286
+    second: sonkoguSprite_18
+  - first:
+      213: 3895121209651831208
+    second: sonkoguSprite_19
+  - first:
+      213: -5239232142536050363
+    second: sonkoguSprite_20
+  - first:
+      213: -9070633080497202065
+    second: sonkoguSprite_21
+  - first:
+      213: 527731397328585092
+    second: sonkoguSprite_22
+  - first:
+      213: 750769031222278488
+    second: sonkoguSprite_23
+  - first:
+      213: 1717287356174882394
+    second: sonkoguSprite_24
+  - first:
+      213: 8864405386404366545
+    second: sonkoguSprite_25
+  - first:
+      213: -7681079042426900198
+    second: sonkoguSprite_26
+  - first:
+      213: 243120861312099518
+    second: sonkoguSprite_27
+  - first:
+      213: 43708426990092786
+    second: sonkoguSprite_28
+  - first:
+      213: -9175997129275544586
+    second: sonkoguSprite_29
+  - first:
+      213: -2885596985229123574
+    second: sonkoguSprite_30
+  - first:
+      213: -3720256931562119470
+    second: sonkoguSprite_31
+  - first:
+      213: 312950472493688495
+    second: sonkoguSprite_32
+  - first:
+      213: -260829327196863936
+    second: sonkoguSprite_33
+  - first:
+      213: -6346387107635064987
+    second: sonkoguSprite_34
+  - first:
+      213: -3761041172344778027
+    second: sonkoguSprite_35
+  - first:
+      213: 6020523933835993520
+    second: sonkoguSprite_36
+  - first:
+      213: 1548119284357440581
+    second: sonkoguSprite_37
+  - first:
+      213: -1942717122408860489
+    second: sonkoguSprite_38
+  - first:
+      213: -4881777999519700226
+    second: sonkoguSprite_39
+  - first:
+      213: 6885511502704493930
+    second: sonkoguSprite_40
+  - first:
+      213: -6493340308591673470
+    second: sonkoguSprite_41
+  - first:
+      213: 6841785776218166083
+    second: sonkoguSprite_42
+  - first:
+      213: -5109149986282358257
+    second: sonkoguSprite_43
+  - first:
+      213: -8321049860667596433
+    second: sonkoguSprite_44
+  - first:
+      213: -2690216915708554468
+    second: sonkoguSprite_45
+  - first:
+      213: 3496151487185198713
+    second: sonkoguSprite_46
+  - first:
+      213: 8588128006708752668
+    second: sonkoguSprite_47
+  - first:
+      213: 7667178588369790010
+    second: sonkoguSprite_48
+  - first:
+      213: -4607966154826761467
+    second: sonkoguSprite_49
+  - first:
+      213: 51695705756824995
+    second: sonkoguSprite_50
+  - first:
+      213: 1486377957272932411
+    second: sonkoguSprite_51
+  - first:
+      213: -7062127385854172633
+    second: sonkoguSprite_52
+  - first:
+      213: 2589780924870968126
+    second: sonkoguSprite_53
+  - first:
+      213: -8969997847517457215
+    second: sonkoguSprite_54
+  - first:
+      213: 4422888687449435517
+    second: sonkoguSprite_55
+  - first:
+      213: 1218332574439910943
+    second: sonkoguSprite_56
+  - first:
+      213: -5689595004961172415
+    second: sonkoguSprite_57
+  - first:
+      213: -280946329466542555
+    second: sonkoguSprite_58
+  - first:
+      213: -5376819093655955377
+    second: sonkoguSprite_59
+  - first:
+      213: 8211161250563306416
+    second: sonkoguSprite_60
+  - first:
+      213: 6050298768957026707
+    second: sonkoguSprite_61
+  - first:
+      213: 4127529904979376590
+    second: sonkoguSprite_62
+  - first:
+      213: 8567007608325874072
+    second: sonkoguSprite_63
+  - first:
+      213: 9149973006709875659
+    second: sonkoguSprite_64
+  - first:
+      213: 1070982770862014865
+    second: sonkoguSprite_65
+  - first:
+      213: 1388639501313013641
+    second: sonkoguSprite_66
+  - first:
+      213: 6684763774562305559
+    second: sonkoguSprite_67
+  - first:
+      213: 5702709053242150368
+    second: sonkoguSprite_68
+  - first:
+      213: -4323324458484945337
+    second: sonkoguSprite_69
+  - first:
+      213: -3283529657686868654
+    second: sonkoguSprite_70
+  - first:
+      213: 2295406982516235873
+    second: sonkoguSprite_71
+  - first:
+      213: -8868280751777247273
+    second: sonkoguSprite_72
+  - first:
+      213: 1944144360734145337
+    second: sonkoguSprite_73
+  - first:
+      213: -1192799741796401483
+    second: sonkoguSprite_74
+  - first:
+      213: 4384527353691943917
+    second: sonkoguSprite_75
+  - first:
+      213: 5301551509649731016
+    second: sonkoguSprite_76
+  - first:
+      213: -7178156178487028631
+    second: sonkoguSprite_77
+  - first:
+      213: -776136029688099140
+    second: sonkoguSprite_78
+  - first:
+      213: -7089774215743122889
+    second: sonkoguSprite_79
+  - first:
+      213: 3503433266085905959
+    second: sonkoguSprite_80
+  - first:
+      213: -9059663228788883385
+    second: sonkoguSprite_81
+  - first:
+      213: -6175460123001559175
+    second: sonkoguSprite_82
+  - first:
+      213: 1905618215737066431
+    second: sonkoguSprite_83
+  - first:
+      213: -184578244139189507
+    second: sonkoguSprite_84
+  - first:
+      213: -4993456079340951865
+    second: sonkoguSprite_85
+  - first:
+      213: 8008448543233701783
+    second: sonkoguSprite_86
+  - first:
+      213: -5928871268585451084
+    second: sonkoguSprite_87
+  - first:
+      213: -3844570886062154796
+    second: sonkoguSprite_88
+  - first:
+      213: -8231621193062994193
+    second: sonkoguSprite_89
+  - first:
+      213: -4290044786338249413
+    second: sonkoguSprite_90
+  - first:
+      213: 282029596155585269
+    second: sonkoguSprite_91
+  - first:
+      213: 3220124774606434002
+    second: sonkoguSprite_92
+  - first:
+      213: 4866910008868895803
+    second: sonkoguSprite_93
+  - first:
+      213: -4751361626200397361
+    second: sonkoguSprite_94
+  - first:
+      213: 6741958607002451769
+    second: sonkoguSprite_95
+  - first:
+      213: 7949349881526851992
+    second: sonkoguSprite_96
+  - first:
+      213: 5894049431390846304
+    second: sonkoguSprite_97
+  - first:
+      213: -7550152151948739688
+    second: sonkoguSprite_98
+  - first:
+      213: -883318542280667279
+    second: sonkoguSprite_99
+  - first:
+      213: -7821547738344944044
+    second: sonkoguSprite_100
+  - first:
+      213: -1163566049661935490
+    second: sonkoguSprite_101
+  - first:
+      213: -2947144978664593551
+    second: sonkoguSprite_102
+  - first:
+      213: 7280294692291026555
+    second: sonkoguSprite_103
+  - first:
+      213: 49376649672218536
+    second: sonkoguSprite_104
+  - first:
+      213: -5207245444706769681
+    second: sonkoguSprite_105
+  - first:
+      213: -8759380904375826920
+    second: sonkoguSprite_106
+  - first:
+      213: -3750712084263291911
+    second: sonkoguSprite_107
+  - first:
+      213: 1097338263325443660
+    second: sonkoguSprite_108
+  - first:
+      213: 7755646327751345521
+    second: sonkoguSprite_109
+  - first:
+      213: 880308429281248819
+    second: sonkoguSprite_110
+  - first:
+      213: -5452773515030218202
+    second: sonkoguSprite_111
+  - first:
+      213: 6851800701280288445
+    second: sonkoguSprite_112
+  - first:
+      213: 8694331028634209142
+    second: sonkoguSprite_113
+  - first:
+      213: 5830383244645947025
+    second: sonkoguSprite_114
+  - first:
+      213: 7922205548880942580
+    second: sonkoguSprite_115
+  - first:
+      213: -811851284546687770
+    second: sonkoguSprite_116
+  - first:
+      213: -4716393448491094461
+    second: sonkoguSprite_117
+  - first:
+      213: -4475282348946678505
+    second: sonkoguSprite_118
+  - first:
+      213: -6492584388238859402
+    second: sonkoguSprite_119
+  - first:
+      213: 2630214491963358381
+    second: sonkoguSprite_120
+  - first:
+      213: 7114089081384812024
+    second: sonkoguSprite_121
+  - first:
+      213: -14351637400454052
+    second: sonkoguSprite_122
+  - first:
+      213: 520520352371599286
+    second: sonkoguSprite_123
+  - first:
+      213: 7200280275309242988
+    second: sonkoguSprite_124
+  - first:
+      213: 9105297589235218075
+    second: sonkoguSprite_125
+  - first:
+      213: 3289273255889166254
+    second: sonkoguSprite_126
+  - first:
+      213: 1193075559028549581
+    second: sonkoguSprite_127
+  - first:
+      213: 4176479012362671056
+    second: sonkoguSprite_128
+  - first:
+      213: 5619213410408079415
+    second: sonkoguSprite_129
+  - first:
+      213: 1483137702414470981
+    second: sonkoguSprite_130
+  - first:
+      213: -144302736800121322
+    second: sonkoguSprite_131
+  - first:
+      213: 5121654735708472402
+    second: sonkoguSprite_132
+  - first:
+      213: -204162351670070271
+    second: sonkoguSprite_133
+  - first:
+      213: 8225618777295918463
+    second: sonkoguSprite_134
+  - first:
+      213: 5956002231748066830
+    second: sonkoguSprite_135
+  - first:
+      213: -2239949456346041946
+    second: sonkoguSprite_136
+  - first:
+      213: 5340050864686848841
+    second: sonkoguSprite_137
+  - first:
+      213: 9105033643594364930
+    second: sonkoguSprite_138
+  - first:
+      213: -2387521810970332748
+    second: sonkoguSprite_139
+  - first:
+      213: -1492688585371113645
+    second: sonkoguSprite_140
+  - first:
+      213: 1435346468510857128
+    second: sonkoguSprite_141
+  - first:
+      213: 8234909054599268527
+    second: sonkoguSprite_142
+  - first:
+      213: -2101634812614010831
+    second: sonkoguSprite_143
+  - first:
+      213: 1744155142929586559
+    second: sonkoguSprite_144
+  - first:
+      213: -6647745870610921530
+    second: sonkoguSprite_145
+  - first:
+      213: 98348649684384914
+    second: sonkoguSprite_146
+  - first:
+      213: -3140519226100680085
+    second: sonkoguSprite_147
+  - first:
+      213: 8852546548385180493
+    second: sonkoguSprite_148
+  - first:
+      213: 6387706198785329633
+    second: sonkoguSprite_149
+  - first:
+      213: 2658489089815736196
+    second: sonkoguSprite_150
+  - first:
+      213: 1283667195323270812
+    second: sonkoguSprite_151
+  - first:
+      213: -1182455990107852341
+    second: sonkoguSprite_152
+  - first:
+      213: -4357074624636440719
+    second: sonkoguSprite_153
+  - first:
+      213: -8464882301119346083
+    second: sonkoguSprite_154
+  - first:
+      213: -3455095946238265651
+    second: sonkoguSprite_155
+  - first:
+      213: 7856781047105169991
+    second: sonkoguSprite_156
+  - first:
+      213: -4464068123866972692
+    second: sonkoguSprite_157
+  - first:
+      213: -7016845414082659823
+    second: sonkoguSprite_158
+  - first:
+      213: 6890476957856098785
+    second: sonkoguSprite_159
+  - first:
+      213: 7356045685277632691
+    second: sonkoguSprite_160
+  - first:
+      213: 3260844792263026559
+    second: sonkoguSprite_161
+  - first:
+      213: 4972406871083139455
+    second: sonkoguSprite_162
+  - first:
+      213: 1701588636306521579
+    second: sonkoguSprite_163
+  - first:
+      213: -1997640086086718640
+    second: sonkoguSprite_164
+  - first:
+      213: -2073406781047748086
+    second: sonkoguSprite_165
+  - first:
+      213: -2896512482615715731
+    second: sonkoguSprite_166
+  - first:
+      213: 5222363445255215435
+    second: sonkoguSprite_167
+  - first:
+      213: 7234581142789960136
+    second: sonkoguSprite_168
+  - first:
+      213: 8961948448540562285
+    second: sonkoguSprite_169
+  - first:
+      213: -119450499625980028
+    second: sonkoguSprite_170
+  - first:
+      213: -1267706460899618016
+    second: sonkoguSprite_171
+  - first:
+      213: 845642958227325389
+    second: sonkoguSprite_172
+  - first:
+      213: -8601499988888490268
+    second: sonkoguSprite_173
+  - first:
+      213: 2164085008554974978
+    second: sonkoguSprite_174
+  - first:
+      213: 5149710141991346484
+    second: sonkoguSprite_175
+  - first:
+      213: -644415003519767280
+    second: sonkoguSprite_176
+  - first:
+      213: -2558048566386567683
+    second: sonkoguSprite_177
+  - first:
+      213: -1047993848095134830
+    second: sonkoguSprite_178
+  - first:
+      213: 3031441531119635498
+    second: sonkoguSprite_179
+  - first:
+      213: -87380147547300397
+    second: sonkoguSprite_180
+  - first:
+      213: 7864777764633904362
+    second: sonkoguSprite_181
+  - first:
+      213: -8089466528815212096
+    second: sonkoguSprite_182
+  - first:
+      213: -181354816960998366
+    second: sonkoguSprite_183
+  - first:
+      213: -3111495397127416921
+    second: sonkoguSprite_184
+  - first:
+      213: 5539506624516778969
+    second: sonkoguSprite_185
+  - first:
+      213: -6981202678562371770
+    second: sonkoguSprite_186
+  - first:
+      213: -2665604070686324094
+    second: sonkoguSprite_187
+  - first:
+      213: -7994231912182704582
+    second: sonkoguSprite_188
+  - first:
+      213: 8885082427231577613
+    second: sonkoguSprite_189
+  - first:
+      213: 7019799590305068756
+    second: sonkoguSprite_190
+  - first:
+      213: -8537058424599856839
+    second: sonkoguSprite_191
+  - first:
+      213: 70468034613923687
+    second: sonkoguSprite_192
+  - first:
+      213: 8091269221874672159
+    second: sonkoguSprite_193
+  - first:
+      213: 4151211580312835512
+    second: sonkoguSprite_194
+  - first:
+      213: -6867127982731262877
+    second: sonkoguSprite_195
+  - first:
+      213: -4307938804920775125
+    second: sonkoguSprite_196
+  - first:
+      213: -5663685820648424617
+    second: sonkoguSprite_197
+  - first:
+      213: 2969484377331496900
+    second: sonkoguSprite_198
+  - first:
+      213: 1454859705200884913
+    second: sonkoguSprite_199
+  - first:
+      213: -5706213990860070563
+    second: sonkoguSprite_200
+  - first:
+      213: 5576221967435310637
+    second: sonkoguSprite_201
+  - first:
+      213: -7544464729549245536
+    second: sonkoguSprite_202
+  - first:
+      213: -5534025058238404708
+    second: sonkoguSprite_203
+  - first:
+      213: -2814008792276659059
+    second: sonkoguSprite_204
+  - first:
+      213: -3008434657255220854
+    second: sonkoguSprite_205
+  - first:
+      213: -8614913083692556682
+    second: sonkoguSprite_206
+  - first:
+      213: -625117450199044656
+    second: sonkoguSprite_207
+  - first:
+      213: -3662822219385595935
+    second: sonkoguSprite_208
+  - first:
+      213: -5509526621045952165
+    second: sonkoguSprite_209
+  - first:
+      213: -4429932555127010360
+    second: sonkoguSprite_210
+  - first:
+      213: 5251083949273078875
+    second: sonkoguSprite_211
+  - first:
+      213: -1726780770104034941
+    second: sonkoguSprite_212
+  - first:
+      213: 6178268999058665274
+    second: sonkoguSprite_213
+  - first:
+      213: 4599339172873614045
+    second: sonkoguSprite_214
+  - first:
+      213: 1273480255466143913
+    second: sonkoguSprite_215
+  - first:
+      213: -653805952751108536
+    second: sonkoguSprite_216
+  - first:
+      213: 7402996072676775067
+    second: sonkoguSprite_217
+  - first:
+      213: 3418705736578692300
+    second: sonkoguSprite_218
+  - first:
+      213: -5221198549479194050
+    second: sonkoguSprite_219
+  - first:
+      213: -3644296482218805921
+    second: sonkoguSprite_220
+  - first:
+      213: 2686809736534921826
+    second: sonkoguSprite_221
+  - first:
+      213: -16388619194897028
+    second: sonkoguSprite_222
+  - first:
+      213: -8413642720540594343
+    second: sonkoguSprite_223
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonkoguSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 195
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b3a45b132ad3a90800000000000000
+      internalID: -7332526283910661256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 762
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66aa992014158710800000000000000
+      internalID: 1694782894424893034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 757
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0990deb9c1ec654f0800000000000000
+      internalID: -840257658187609712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 653
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087001d2caaa32ac0800000000000000
+      internalID: -3881070797396113536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 653
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a83b173d0a3050800000000000000
+      internalID: 5780947602014513487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 653
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7d9e7da99c5180800000000000000
+      internalID: -9125249774526825413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 653
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e3fc1da21474e30800000000000000
+      internalID: 4487627205862440533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 653
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741c0535119863480800000000000000
+      internalID: -8919791304455438009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358c70e4a8442150800000000000000
+      internalID: 5846878089211839796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b57ea6748b2cb60800000000000000
+      internalID: 7764971324415892364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 677
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbaa1c0fe4d32cf0800000000000000
+      internalID: -278144628801492020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ba5e0ab886a9af0800000000000000
+      internalID: -388883468904977570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b8d1901b5386ef0800000000000000
+      internalID: -114782756019532969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 678
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4b7ce7712d376f0800000000000000
+      internalID: -687975319704455958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 678
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0bf33c0181111a0800000000000000
+      internalID: -6840659898724798222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 605
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acde07b9e3ba7a1d0800000000000000
+      internalID: -3339512313287742006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 605
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683ecf916890cad00800000000000000
+      internalID: 985172890053567366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 606
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8ccef78e206a400800000000000000
+      internalID: 334958419887573209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 605
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679ddb84ce4115b20800000000000000
+      internalID: 3121299021809703286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 606
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1236a5a104e0630800000000000000
+      internalID: 3895121209651831208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 606
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549745000228a47b0800000000000000
+      internalID: -5239232142536050363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 607
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c9e058543ae1280800000000000000
+      internalID: -9070633080497202065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 606
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481479ae8e0e25700800000000000000
+      internalID: 527731397328585092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 607
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8593e56c4744b6a00800000000000000
+      internalID: 750769031222278488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 607
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56d21a70c705d710800000000000000
+      internalID: 1717287356174882394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_25
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 607
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d801b9bbb1b40b70800000000000000
+      internalID: 8864405386404366545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_26
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 606
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1172789e43576590800000000000000
+      internalID: -7681079042426900198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 606
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4aeff922dbf5300800000000000000
+      internalID: 243120861312099518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 606
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f18f6035984b9000800000000000000
+      internalID: 43708426990092786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 606
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbe6893a3f48a080800000000000000
+      internalID: -9175997129275544586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_30
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 606
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00ea7a94dc44f7d0800000000000000
+      internalID: -2885596985229123574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_31
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 606
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de1e01180efe5cc0800000000000000
+      internalID: -3720256931562119470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 560
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6e641fbc2d75400800000000000000
+      internalID: 312950472493688495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 562
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0424d6ddb19516cf0800000000000000
+      internalID: -260829327196863936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 561
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f0b4adc8a1de7a0800000000000000
+      internalID: -6346387107635064987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 563
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d255c80bf81ecbc0800000000000000
+      internalID: -3761041172344778027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 562
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b12806ae923d8350800000000000000
+      internalID: 6020523933835993520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 562
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544ae0e69460c7510800000000000000
+      internalID: 1548119284357440581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 562
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b430c3f1151a05e0800000000000000
+      internalID: -1942717122408860489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 561
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaaf4236c0704cb0800000000000000
+      internalID: -4881777999519700226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_40
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 564
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65419f0b304e8f50800000000000000
+      internalID: 6885511502704493930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 564
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ffaac746503e5a0800000000000000
+      internalID: -6493340308591673470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 564
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343ddc40ae7e2fe50800000000000000
+      internalID: 6841785776218166083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 564
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ab27b2827a819b0800000000000000
+      internalID: -5109149986282358257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 564
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6128901d31b58c80800000000000000
+      internalID: -8321049860667596433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_45
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 564
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13d172f7fd6aaad0800000000000000
+      internalID: -2690216915708554468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 561
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e90a21143d48030800000000000000
+      internalID: 3496151487185198713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 515
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1175759be82f2770800000000000000
+      internalID: 8588128006708752668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 519
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34234dbd4a476a60800000000000000
+      internalID: 7667178588369790010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 517
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b378c32373d00c0800000000000000
+      internalID: -4607966154826761467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_50
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 517
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a57c0278f8a7b000800000000000000
+      internalID: 51695705756824995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 516
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30593180eca0a410800000000000000
+      internalID: 1486377957272932411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_52
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 519
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722aa9f2f884efd90800000000000000
+      internalID: -7062127385854172633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_53
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 516
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e334409a700c0f320800000000000000
+      internalID: 2589780924870968126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 515
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c414b69b7a248380800000000000000
+      internalID: -8969997847517457215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 519
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d6488e3d1416d30800000000000000
+      internalID: 4422888687449435517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_56
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 519
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e27cd750368e010800000000000000
+      internalID: 1218332574439910943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_57
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 518
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144d37ddc7f7a01b0800000000000000
+      internalID: -5689595004961172415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 517
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52662374dc0e91cf0800000000000000
+      internalID: -280946329466542555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_59
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 517
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48591d9583b165b0800000000000000
+      internalID: -5376819093655955377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 517
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3374d17a7e3f170800000000000000
+      internalID: 8211161250563306416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_61
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 517
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391baacacaaf6f350800000000000000
+      internalID: 6050298768957026707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_62
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 517
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9f81a749ee74930800000000000000
+      internalID: 4127529904979376590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 469
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8912552a70024e670800000000000000
+      internalID: 8567007608325874072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 469
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ea5198fb3bfe70800000000000000
+      internalID: 9149973006709875659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_65
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 475
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1914bc1e725ecde00800000000000000
+      internalID: 1070982770862014865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_66
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 466
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98776d4e440754310800000000000000
+      internalID: 1388639501313013641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_67
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 466
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7168f2e4c3d05cc50800000000000000
+      internalID: 6684763774562305559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_68
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 471
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed07ef6ba7142f40800000000000000
+      internalID: 5702709053242150368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 471
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e2f3b9f477004c0800000000000000
+      internalID: -4323324458484945337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_70
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 464
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d3d185c2f8e62d0800000000000000
+      internalID: -3283529657686868654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_71
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 464
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ed4df2d7ceadf10800000000000000
+      internalID: 2295406982516235873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_72
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 422
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df02e574a98de480800000000000000
+      internalID: -8868280751777247273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_73
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 473
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b33addefcfafa10800000000000000
+      internalID: 1944144360734145337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_74
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 473
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be3c0e54f2527fe0800000000000000
+      internalID: -1192799741796401483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_75
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 477
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3bac0e568f8dc30800000000000000
+      internalID: 4384527353691943917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_76
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 477
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdab1b5205e29940800000000000000
+      internalID: 5301551509649731016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_77
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 488
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9645107bcf0126c90800000000000000
+      internalID: -7178156178487028631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_78
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 477
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe0f05a46c9a35f0800000000000000
+      internalID: -776136029688099140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_79
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 477
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73258ecf9ef0c9d90800000000000000
+      internalID: -7089774215743122889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_80
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 470
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72646575ef1be9030800000000000000
+      internalID: 3503433266085905959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_81
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 469
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740ce572b4c954280800000000000000
+      internalID: -9059663228788883385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_82
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 476
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977e6e3bcbb5c4aa0800000000000000
+      internalID: -6175460123001559175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_83
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 475
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3858abbad127a10800000000000000
+      internalID: 1905618215737066431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 427
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa71dc901f307df0800000000000000
+      internalID: -184578244139189507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_85
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 427
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c62e5df62ea3bab0800000000000000
+      internalID: -4993456079340951865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_86
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 427
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797707df489b32f60800000000000000
+      internalID: 8008448543233701783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 425
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1d1f46efa68bda0800000000000000
+      internalID: -5928871268585451084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_88
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 423
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbd476062755aac0800000000000000
+      internalID: -3844570886062154796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_89
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 427
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee27ed432863cd80800000000000000
+      internalID: -8231621193062994193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_90
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 423
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35cac71ff2b674c0800000000000000
+      internalID: -4290044786338249413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_91
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 423
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f220076c68f9e300800000000000000
+      internalID: 282029596155585269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 425
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dee9daeb6e20bc20800000000000000
+      internalID: 3220124774606434002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_93
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 425
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7c68fddcba8340800000000000000
+      internalID: 4866910008868895803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_94
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 424
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc927e656c5cf0eb0800000000000000
+      internalID: -4751361626200397361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_95
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 424
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fb4c4f1af309d50800000000000000
+      internalID: 6741958607002451769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_96
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 428
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89993bb8993c15e60800000000000000
+      internalID: 7949349881526851992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_97
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 428
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06df4a6dabedbc150800000000000000
+      internalID: 5894049431390846304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_98
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 428
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bb1f6ce98783790800000000000000
+      internalID: -7550152151948739688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_99
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 431
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f48df3772ddb3f0800000000000000
+      internalID: -883318542280667279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_100
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 430
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e8036b5c7447390800000000000000
+      internalID: -7821547738344944044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_101
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 431
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e702239b7de2adfe0800000000000000
+      internalID: -1163566049661935490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_102
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 379
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177ee1da143a917d0800000000000000
+      internalID: -2947144978664593551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_103
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 379
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e1b22337dc80560800000000000000
+      internalID: 7280294692291026555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_104
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 379
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a759ef1dcb6fa000800000000000000
+      internalID: 49376649672218536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_105
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 379
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46bf17bd52cb7b0800000000000000
+      internalID: -5207245444706769681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 379
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816c6560a7d607680800000000000000
+      internalID: -8759380904375826920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_107
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 379
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3b8b24b3bc2fbc0800000000000000
+      internalID: -3750712084263291911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_108
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 379
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4605f726578a3f00800000000000000
+      internalID: 1097338263325443660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_109
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 379
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1758e217e3791ab60800000000000000
+      internalID: 7755646327751345521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_110
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 379
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33647143adb773c00800000000000000
+      internalID: 880308429281248819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_111
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 379
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a37fbc06bd354b0800000000000000
+      internalID: -5452773515030218202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_112
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 379
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe75977f6c761f50800000000000000
+      internalID: 6851800701280288445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_113
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 379
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b0669810878a870800000000000000
+      internalID: 8694331028634209142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_114
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 380
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d2899baea9e050800000000000000
+      internalID: 5830383244645947025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_115
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 380
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f55daa19f351fd60800000000000000
+      internalID: 7922205548880942580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_116
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 380
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec662ede89bbb4f0800000000000000
+      internalID: -811851284546687770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_117
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 380
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e65b9a5210c8eb0800000000000000
+      internalID: -4716393448491094461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_118
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 337
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d15792a6a94e1c0800000000000000
+      internalID: -4475282348946678505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_119
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 337
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673a6c8e5e4b5e5a0800000000000000
+      internalID: -6492584388238859402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_120
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 337
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac7f8c1526608420800000000000000
+      internalID: 2630214491963358381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_121
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 337
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd3d64d3525ab260800000000000000
+      internalID: 7114089081384812024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_122
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 337
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cfcc603430dcff0800000000000000
+      internalID: -14351637400454052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_123
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 333
+        width: 152
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7687da082493700800000000000000
+      internalID: 520520352371599286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_124
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 334
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a2f0df2c88ce360800000000000000
+      internalID: 7200280275309242988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_125
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 334
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f59c5ae38c5e70800000000000000
+      internalID: 9105297589235218075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_126
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 334
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf57725998d5ad20800000000000000
+      internalID: 3289273255889166254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_127
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 329
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e81656e7ae8010800000000000000
+      internalID: 1193075559028549581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_128
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 331
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d350c7a885d5f930800000000000000
+      internalID: 4176479012362671056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_129
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 334
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302c7c23d47bfd40800000000000000
+      internalID: 5619213410408079415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_130
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 334
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f4761e1e9259410800000000000000
+      internalID: 1483137702414470981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_131
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 334
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e79e8ec655ffdf0800000000000000
+      internalID: -144302736800121322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_132
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 287
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c910b8d5c31740800000000000000
+      internalID: 5121654735708472402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_133
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 287
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10472304c6baa2df0800000000000000
+      internalID: -204162351670070271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_134
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 287
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75918e52b4472270800000000000000
+      internalID: 8225618777295918463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_135
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 288
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ef6c83978f7a250800000000000000
+      internalID: 5956002231748066830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_136
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 288
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a13aa356d91ae0e0800000000000000
+      internalID: -2239949456346041946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_137
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 287
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b5d28f7fbab1a40800000000000000
+      internalID: 5340050864686848841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_138
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 289
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2083c6abbd39b5e70800000000000000
+      internalID: 9105033643594364930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_139
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 289
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1bd930091ddded0800000000000000
+      internalID: -2387521810970332748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_140
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 289
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357aca4e3a7e84be0800000000000000
+      internalID: -1492688585371113645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_141
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 289
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7733122006be310800000000000000
+      internalID: 1435346468510857128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_142
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 288
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8890d9726484270800000000000000
+      internalID: 8234909054599268527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_143
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 288
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1381c8ad54e75d2e0800000000000000
+      internalID: -2101634812614010831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_144
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 288
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f791d7f8cdb743810800000000000000
+      internalID: 1744155142929586559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_145
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 289
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c78a291a567eb3a0800000000000000
+      internalID: -6647745870610921530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_146
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 291
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cb39863976d5100800000000000000
+      internalID: 98348649684384914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_147
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 290
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6afbfd2762aa64d0800000000000000
+      internalID: -3140519226100680085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_148
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 285
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4beb16de209ada70800000000000000
+      internalID: 8852546548385180493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_149
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 270
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9092cb1f0b5a850800000000000000
+      internalID: 6387706198785329633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_150
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 276
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fe7bdedb9d4e420800000000000000
+      internalID: 2658489089815736196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_151
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96c013538080d110800000000000000
+      internalID: 1283667195323270812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_152
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 246
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b61bba82179fe0800000000000000
+      internalID: -1182455990107852341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_153
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 245
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f2da2b6bf8883c0800000000000000
+      internalID: -4357074624636440719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_154
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 239
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a4a406562b68a80800000000000000
+      internalID: -8464882301119346083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_155
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 250
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc67393fa880d00d0800000000000000
+      internalID: -3455095946238265651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_156
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 248
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aa9be3cb4e80d60800000000000000
+      internalID: 7856781047105169991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_157
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 248
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedb3c761b17c02c0800000000000000
+      internalID: -4464068123866972692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_158
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 248
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a36c1d5482f9e90800000000000000
+      internalID: -7016845414082659823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_159
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 248
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e60e2944ef9f50800000000000000
+      internalID: 6890476957856098785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_160
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 245
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8a486a39ce51660800000000000000
+      internalID: 7356045685277632691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_161
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 248
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f772586df09d04d20800000000000000
+      internalID: 3260844792263026559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_162
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 247
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f714f9d44b9810540800000000000000
+      internalID: 4972406871083139455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_163
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 247
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed34ec69d14d9710800000000000000
+      internalID: 1701588636306521579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_164
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 245
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b68b7fce4f644e0800000000000000
+      internalID: -1997640086086718640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_165
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 246
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a43cc9487c933e0800000000000000
+      internalID: -2073406781047748086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_166
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 242
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6894325e358dc7d0800000000000000
+      internalID: -2896512482615715731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_167
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 246
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b491c6a52ef897840800000000000000
+      internalID: 5222363445255215435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_168
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 245
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c13cba0835666460800000000000000
+      internalID: 7234581142789960136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_169
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 247
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d639f9aa1ac3f5c70800000000000000
+      internalID: 8961948448540562285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_170
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 198
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fec894760a75ef0800000000000000
+      internalID: -119450499625980028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_171
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0235c9eb0b3386ee0800000000000000
+      internalID: -1267706460899618016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_172
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 198
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc143f34ac35cbb00800000000000000
+      internalID: 845642958227325389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_173
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 198
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee66c2355551a880800000000000000
+      internalID: -8601499988888490268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_174
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 198
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fdaa679df580e10800000000000000
+      internalID: 2164085008554974978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_175
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 198
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431ee9df612777740800000000000000
+      internalID: 5149710141991346484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_176
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 180
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01da543f7f39e07f0800000000000000
+      internalID: -644415003519767280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_177
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 198
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5d45ac16cff7cd0800000000000000
+      internalID: -2558048566386567683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_178
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 190
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bae7dc527c471f0800000000000000
+      internalID: -1047993848095134830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_179
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 189
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c80c3e208d11a20800000000000000
+      internalID: 3031441531119635498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_180
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 190
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd9501083099cef0800000000000000
+      internalID: -87380147547300397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_181
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 194
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4056225bd452d60800000000000000
+      internalID: 7864777764633904362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_182
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 197
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c99e874d017cbf80800000000000000
+      internalID: -8089466528815212096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_183
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 195
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224dbbc31c2bb7df0800000000000000
+      internalID: -181354816960998366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_184
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 193
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a315f5fb6fb1d4d0800000000000000
+      internalID: -3111495397127416921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_185
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 191
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbee39ece740ec40800000000000000
+      internalID: 5539506624516778969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_186
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 190
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647c84fd629cd1f90800000000000000
+      internalID: -6981202678562371770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_187
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 190
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a08ee783fd10bd0800000000000000
+      internalID: -2665604070686324094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_188
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 189
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36124e5e68ce0190800000000000000
+      internalID: -7994231912182704582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_189
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 154
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06243374672e4b70800000000000000
+      internalID: 8885082427231577613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_190
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 154
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f09ee8865b6160800000000000000
+      internalID: 7019799590305068756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_191
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 154
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93938f61896468980800000000000000
+      internalID: -8537058424599856839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_192
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 180
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fce2bdd4a5af000800000000000000
+      internalID: 70468034613923687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_193
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 171
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1224e7ec76f94070800000000000000
+      internalID: 8091269221874672159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_194
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5d80030f01c9930800000000000000
+      internalID: 4151211580312835512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_195
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 171
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364882abb7f03b0a0800000000000000
+      internalID: -6867127982731262877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_196
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e839a3b702734c0800000000000000
+      internalID: -4307938804920775125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_197
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b75dce0cb8661b0800000000000000
+      internalID: -5663685820648424617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_198
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 142
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c77ae4ee4ab53920800000000000000
+      internalID: 2969484377331496900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_199
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc37869133b03410800000000000000
+      internalID: 1454859705200884913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_200
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 136
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51eb6eab947fc0b0800000000000000
+      internalID: -5706213990860070563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_201
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 140
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2626b5d558b26d40800000000000000
+      internalID: 5576221967435310637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_202
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 138
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f0cefc4dac4790800000000000000
+      internalID: -7544464729549245536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_203
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 139
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97e691b7813333b0800000000000000
+      internalID: -5534025058238404708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_204
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d841685a9e1a2f8d0800000000000000
+      internalID: -2814008792276659059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_205
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 106
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89145c5e94ef36d0800000000000000
+      internalID: -3008434657255220854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_206
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 106
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ed3a3b13ea17880800000000000000
+      internalID: -8614913083692556682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_207
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 106
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddecf5bdf22357f0800000000000000
+      internalID: -625117450199044656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_208
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 74
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71d12199a0b2dc0800000000000000
+      internalID: -3662822219385595935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_209
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 74
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b517ff79aba3a83b0800000000000000
+      internalID: -5509526621045952165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_210
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 73
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb47b8dfc7b582c0800000000000000
+      internalID: -4429932555127010360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_211
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 71
+        width: 157
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c5d2ac7099fd840800000000000000
+      internalID: 5251083949273078875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_212
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38939f8d90e3908e0800000000000000
+      internalID: -1726780770104034941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_213
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f23b7bbee9db550800000000000000
+      internalID: 6178268999058665274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_214
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2bba00c9224df30800000000000000
+      internalID: 4599339172873614045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_215
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 61
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0888f8b8f4ca110800000000000000
+      internalID: 1273480255466143913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_216
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2
+        width: 153
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84efb3233f63de6f0800000000000000
+      internalID: -653805952751108536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94d28194b9bcb660800000000000000
+      internalID: 7402996072676775067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_218
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 25
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4fc5c11cea17f20800000000000000
+      internalID: 3418705736578692300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_219
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32028415939a87b0800000000000000
+      internalID: -5221198549479194050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_220
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 23
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55742168abdc6dc0800000000000000
+      internalID: -3644296482218805921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_221
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 12
+        width: 130
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26299355837794520800000000000000
+      internalID: 2686809736534921826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_222
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 12
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d678e33a6c5cff0800000000000000
+      internalID: -16388619194897028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonkoguSprite_223
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 11
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6027e58cbc3b80800000000000000
+      internalID: -8413642720540594343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
